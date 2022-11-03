@@ -1,9 +1,3 @@
-streamlit
-streamlit_card
-gspread
-oauth2client
-streamlit_option_menu
-gspread_dataframe
 glob
 pickle
 datetime
@@ -11,3 +5,10 @@ os
 collection
 google_auth_oauthlib
 googleapiclient
+streamlit
+pandas
+streamlit_card
+gspread
+oauth2client
+streamlit_option_menu
+gspread_dataframe

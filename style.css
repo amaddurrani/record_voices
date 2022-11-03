@@ -1,0 +1,17 @@
+
+body{
+    font-family: 'Jameel Noori Nastaleeq';
+    font-size: 20px !important;
+    /* text-align: right; */
+}
+
+.urdu-font {
+    font-size:30px !important;
+    font-family: 'Jameel Noori Nastaleeq', sana-serif;
+    text-align: right;
+}
+.urdu-font-big {
+    font-size:75px !important;
+    font-family: 'Jameel Noori Nastaleeq', sana-serif;
+    text-align: right;
+}

@@ -1,5 +1,3 @@
-glob
-pickle
 datetime
 os
 collection

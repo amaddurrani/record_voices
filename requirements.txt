@@ -1,9 +1,8 @@
-streamlit
-pandas
 streamlit_card
 gspread
 oauth2client
 streamlit_option_menu
 gspread_dataframe
 sounddevice
-PortAudio
+wavio
+google-api-python-client
